@@ -1,3 +1,3 @@
-# Shadowheart with Paladin Class
+# Gale as Cleric of Mystra
 
-Modifies Shadowheart's class to Oath of Devotion Paladin.
+Modifies Gale's class to Light Domain Cleric of Mystra.

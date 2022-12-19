@@ -1,0 +1,13 @@
+{
+  "mods": [
+    {
+      "modName": "GaleCleric",
+      "UUID": "ea4a3a96-983a-4b24-8811-b19101b62efa",
+      "folderName": "GaleCleric",
+      "Description": "Gale as Cleric of Mystra (Light Domain)",
+      "version": "1",
+      "MD5": "",
+      "Group": "6e6e947b-99e3-4bf0-9d60-a9dd893a0df7"
+    }
+  ]
+}

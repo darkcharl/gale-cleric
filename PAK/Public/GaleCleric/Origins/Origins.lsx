@@ -17,7 +17,7 @@
                     <attribute id="Name" type="FixedString" value="Gale"/>
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
                     <attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
-                    <attribute id="SubClassUUID" type="guid" value="c54d7591-b305-4f22-b2a7-1bf5c4a3470a"/>
+                    <attribute id="SubClassUUID" type="guid" value="4b5da2f5-b999-4623-8bff-a63df5560fb3"/>
                     <attribute id="UUID" type="guid" value="35c3caad-5543-4593-be75-e7deba30f062"/>
                     <attribute id="Unique" type="bool" value="true"/>
                     <attribute id="VoiceTableUUID" type="guid" value="14c454f3-a6ac-4a01-9abb-9207f7b84210"/>
